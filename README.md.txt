@@ -1,0 +1,1 @@
+This is a project carried out and programmed with Arduino which consists of activating objects using a relay. This can be very useful since it handles higher voltage.
